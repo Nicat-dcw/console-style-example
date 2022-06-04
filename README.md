@@ -16,5 +16,5 @@ npm install ghost-dev.ascii
 
 Name | Info | Use
 ------------ | ------------ | -------------
-Ascii         Ascii is Table of Contents. Read .js file
-Colors.       Styles Console Message with colors.   Read .js file
+Ascii        | Ascii is Table of Contents | Read .js file
+Colors      | Styles Console Message with colors| Read .js file
